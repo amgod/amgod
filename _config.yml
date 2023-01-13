@@ -1,12 +1,13 @@
 markdown: kramdown
 permalink: /:title/
-url: https://amgod.js.org
-name: Amgod blog
+url: https://amgod.github.io/amgod
+name: Amgod Blog
 author: Amgod
 email: amgod20@qq.com
 beian: None
 weibo: 18850691
 github: Amgod
+giturl: amgod.github.io/amgod
 safe: true
 paginate: 20
 about: "欢迎观赏、建议、拍砖……"
