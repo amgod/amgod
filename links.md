@@ -1,3 +1,0 @@
-- [Amgod](http://blog.mafushan.com)
-- [Amgod](http://blog.mafushan.com)
-- [Amgod](http://blog.mafushan.com)   &nbsp;&nbsp;&nbsp;[Amgod](http://blog.mafushan.com)
