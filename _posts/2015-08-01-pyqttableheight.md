@@ -4,7 +4,8 @@ date: 2015-08-01 21:12
 status: public
 thread: 0
 categories: 日志
-tags: python;pyqt
+tags: python
+tags: pyqt
 ---
 
 ###1、指定某个行或者列的大小
